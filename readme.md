@@ -24,7 +24,7 @@ A modern, high-performance web application for real estate market analysis, buil
 ### 2. Setup Steps
 ```bash
 # Clone the repository (or navigate to directory)
-cd project-P1
+cd project-P1/PropAnalyze/frontend
 
 # Install Dependencies
 npm install
