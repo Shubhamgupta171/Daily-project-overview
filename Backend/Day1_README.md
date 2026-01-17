@@ -1,7 +1,7 @@
 # Day 1: Project Setup & Architecture Review
 
 ## Goal
-Establish a robust, production-ready foundation for the PropAnalyze backend. By the end of today, you should have a secure, logging-enabled Express server with centralized error handling.
+Establish a robust, production-ready foundation for the PropAnalyze backend. we have a secure, logging-enabled Express server with centralized error handling.
 
 ## Checklist
 
